@@ -1,0 +1,1 @@
+Run `run.sh` to set model directories.
